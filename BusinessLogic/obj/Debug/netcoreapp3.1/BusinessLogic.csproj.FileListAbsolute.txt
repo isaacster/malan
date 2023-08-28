@@ -1,0 +1,12 @@
+C:\Users\itzik\source\repos2\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.deps.json
+C:\Users\itzik\source\repos2\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.dll
+C:\Users\itzik\source\repos2\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.pdb
+C:\Users\itzik\source\repos2\BusinessLogic\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\itzik\source\repos2\BusinessLogic\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\itzik\source\repos2\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\itzik\source\repos2\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\itzik\source\repos2\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.AssemblyInfo.cs
+C:\Users\itzik\source\repos2\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\itzik\source\repos2\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.csproj.CopyComplete
+C:\Users\itzik\source\repos2\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.dll
+C:\Users\itzik\source\repos2\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.pdb

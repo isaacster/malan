@@ -1,0 +1,9 @@
+C:\Users\itzik\source\repos2\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+C:\Users\itzik\source\repos2\Common\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\itzik\source\repos2\Common\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\itzik\source\repos2\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+C:\Users\itzik\source\repos2\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\itzik\source\repos2\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\itzik\source\repos2\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\itzik\source\repos2\Common\obj\Debug\netcoreapp3.1\Common.dll
+C:\Users\itzik\source\repos2\Common\obj\Debug\netcoreapp3.1\Common.pdb
